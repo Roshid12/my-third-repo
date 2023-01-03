@@ -1,8 +1,11 @@
 p{
-    color: blue;
+    color: cyan;
     background-color: chartreuse;
 
 }
 h1{
+   color: brown;
     text-align: center;
+    background-color: blue;
 }
+
